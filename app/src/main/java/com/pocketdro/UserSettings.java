@@ -1,4 +1,4 @@
-package com.converter.dlong.mill_turn_converter;
+package com.pocketdro;
 
 import java.io.Serializable;
 
