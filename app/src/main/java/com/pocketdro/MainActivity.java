@@ -228,7 +228,7 @@ public class MainActivity extends AppCompatActivity {
         {
             retVal = convertToSae(revs);
         }
-        return retVal * .001;
+        return retVal;
     }
 
     private double calculateTurns(double rev, double distance)
