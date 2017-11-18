@@ -1,3 +1,4 @@
+![alt text](feature_graphic.png)
 # PocketDRO
 
 Manual Machining Made A Little Easier
