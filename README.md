@@ -21,4 +21,8 @@ Enjoy!
 
 Screenshot
 
-![alt text](main_screen.png)
+![alt text](main_screenshot.png)
+
+![alt text](pocketDRO_real.png)
+
+
